@@ -1,2 +1,3 @@
-# FarmConnect_GitRepo_
-livestockmon  project
+# FarmConnect
+
+A tech-driven agri-startup MVP for livestock digitization using AI and Blockchain.
